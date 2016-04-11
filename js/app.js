@@ -17,7 +17,8 @@ $(document).ready(function(){
         $('.ryu-throwing').hide();
         $('.ryu-ready').show();
   	  // ryu goes back to his ready position
-  	  // aiofh
+
+  	  // abc1234567890
 
 	});
 
